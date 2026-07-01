@@ -1,5 +1,5 @@
 # Brain Tissue Segmentation Comparison between classical and Deep Learning approaches
-This repository contains the implementation of a comparative analysis between unsupervised and deep learning-based methods for brain tissue segmentation from MRI volumes, developed for the Methods for Image Processing course (A.Y. 2025/2026, University of Milan)[cite: 1].
+This repository contains the implementation of a comparative analysis between unsupervised and deep learning-based methods for brain tissue segmentation from MRI volumes, developed for the Methods for Image Processing course (A.Y. 2025/2026, University of Milan).
 
 # Overview
 Brain tissue segmentation is a fundamental task in neuroimaging, as the precise quantification of Gray Matter (GM), White Matter (WM), and Cerebrospinal Fluid (CSF) is essential for assessing brain health and monitoring neurodegenerative conditions such as Alzheimer’s disease, Parkinson’s, and Multiple Sclerosis.
